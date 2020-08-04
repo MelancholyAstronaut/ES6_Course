@@ -6,7 +6,7 @@ const  ArrayUtils = require("./ArraysUtils")
 //     } else {
 //         console.log(i)
 //     }
-// })
+// }) 
 
 // let sum = [1, 2, 3, 4, 5].reduce(function (a, b) {
 //     return a + b;
