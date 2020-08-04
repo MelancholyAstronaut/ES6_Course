@@ -1,5 +1,5 @@
-function sum(value) {
-    return eval(value.join("+"))
+function sum(nums) {
+    eval(nums.join("+"))
 }
 
 module.exports.sum = sum
