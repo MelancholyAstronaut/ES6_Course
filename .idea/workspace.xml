@@ -14,6 +14,12 @@
       </list>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1fcVfJbRUyg66sbAg806o8oEhzk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,14 +32,18 @@
     <property name="javascript.nodejs.core.library.typings.version" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.Array.js">
     <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ES6/demo02/1.js" working-dir="$PROJECT_DIR$/ES6/demo02">
+      <method v="2" />
+    </configuration>
+    <configuration name="Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ES6/demo03/Array.js" working-dir="$PROJECT_DIR$/ES6/demo03">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Array.js" />
         <item itemvalue="Node.js.1.js" />
       </list>
     </recent_temporary>
@@ -46,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596517469839</updated>
-      <workItem from="1596517470897" duration="1452000" />
+      <workItem from="1596517470897" duration="2370000" />
     </task>
     <servers />
   </component>
@@ -58,25 +68,25 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1596518401034" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1596518862393">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1596519836631">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596518862393" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1596518862393">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596519836631" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1596519836631">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596518862393" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1596518862393">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596519836631" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1596519836631">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596518862393" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1596518862393">
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596519836631" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1596519836631">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596518862393" />
-    <state x="270" y="61" key="SettingsEditor" timestamp="1596517538927">
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596519836631" />
+    <state x="270" y="61" key="SettingsEditor" timestamp="1596519684587">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596517538927" />
+    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596519684587" />
   </component>
 </project>
