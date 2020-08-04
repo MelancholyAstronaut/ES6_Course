@@ -1,12 +1,21 @@
 {
   "name": "node_course",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelancholyAstronaut/ES6_Course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MelancholyAstronaut/ES6_Course/issues"
+  },
+  "homepage": "https://github.com/MelancholyAstronaut/ES6_Course#readme",
+  "description": ""
 }
