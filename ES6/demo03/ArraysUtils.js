@@ -1,5 +1,9 @@
 function sum(nums) {
-    eval(nums.join("+"))
+    var res = 0;
+    for (let c of nums){
+        res+=c;
+    }
+    return res;
 }
 
 module.exports.sum = sum
