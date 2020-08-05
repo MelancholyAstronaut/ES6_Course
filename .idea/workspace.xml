@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -21,6 +24,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1fcVfJbRUyg66sbAg806o8oEhzk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,9 +34,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Node.js.function.js">
     <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ES6/demo02/1.js" working-dir="$PROJECT_DIR$/ES6/demo02">
@@ -60,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596517469839</updated>
-      <workItem from="1596517470897" duration="4873000" />
+      <workItem from="1596517470897" duration="5277000" />
     </task>
     <servers />
   </component>
@@ -76,6 +81,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1596536964233" />
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1596598495924">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596598495924" />
     <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1596536692799">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -92,9 +101,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596536692799" />
-    <state x="270" y="61" key="SettingsEditor" timestamp="1596519684587">
+    <state x="270" y="61" key="SettingsEditor" timestamp="1596598444994">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596519684587" />
+    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596598444994" />
+    <state x="574" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596598510746">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1596598510746" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1596598493309">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1596598493309" />
   </component>
 </project>
