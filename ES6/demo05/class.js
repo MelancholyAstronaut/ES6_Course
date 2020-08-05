@@ -15,5 +15,5 @@ class Animal {
     }
 }
 let dog = new Animal("dog");
-dog.walk()
+dog.walk();
 //下面都和java一样了

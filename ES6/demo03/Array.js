@@ -15,7 +15,7 @@ const  ArrayUtils = require("./ArraysUtils")
 //一些Array的新函数
 // Array.from(arrayLike[, mapFn[, thisArg]])
 // console.log(ArrayUtils.sum());
-let c = Array.of(1,2,3,4,5,6).reduce(function (a,b,c,d){
+let c = Array.of(1,1,1,1,1).reduce(function (a,b,c,d){
     return a+b
 })
 console.log(c)

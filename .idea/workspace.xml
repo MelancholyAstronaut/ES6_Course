@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b61db81f-4122-4c8b-8afc-2e8b7aef0c3c" name="Default Changelist" comment="" />
+    <list default="true" id="b61db81f-4122-4c8b-8afc-2e8b7aef0c3c" name="Default Changelist" comment="测试信息">
+      <change afterPath="$PROJECT_DIR$/ES6/demo06/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES6/demo06/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES6/demo06/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES6/demo06/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES6/demo06/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/node_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/node_course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES6/demo03/ArraysUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES6/demo03/ArraysUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ES6/demo05/class.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES6/demo05/class.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,17 +25,26 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1fcVfJbRUyg66sbAg806o8oEhzk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,16 +53,34 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
-    <property name="javascript.nodejs.core.library.typings.version" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.53" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ES6/demo06" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="D:\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
-  <component name="RunManager" selected="Node.js.function.js">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qiu\Desktop\node_course\ES6\demo06" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qiu\Desktop\node_course\ES6\demo06\assert" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Array.js">
     <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ES6/demo02/1.js" working-dir="$PROJECT_DIR$/ES6/demo02">
       <method v="2" />
     </configuration>
@@ -51,8 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.function.js" />
         <item itemvalue="Node.js.Array.js" />
+        <item itemvalue="Node.js.function.js" />
         <item itemvalue="Node.js.1.js" />
       </list>
     </recent_temporary>
@@ -65,50 +106,79 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596517469839</updated>
-      <workItem from="1596517470897" duration="5277000" />
+      <workItem from="1596517470897" duration="7288000" />
+      <workItem from="1596605549645" duration="139000" />
     </task>
+    <task id="LOCAL-00001" summary="测试信息">
+      <created>1596598580032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596598580032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试信息" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="242" y="38" key="#JSHint" timestamp="1596599491278">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="242" y="38" key="#JSHint/0.0.1536.834@0.0.1536.834" timestamp="1596599491278" />
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596518401034">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1596518401034" />
+    <state x="441" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596600506618">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="441" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1596600506618" />
+    <state x="499" y="196" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1596598997204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="196" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1536.834@0.0.1536.834" timestamp="1596598997204" />
     <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1596536964233">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1596536964233" />
-    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1596598495924">
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1596599024594">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596598495924" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1596536692799">
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596599024594" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1596600523412">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596536692799" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1596536692799">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596600523412" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1596600523412">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596536692799" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1596536692799">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596600523412" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1596600523412">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596536692799" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1596536692799">
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596600523412" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1596600523412">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596536692799" />
-    <state x="270" y="61" key="SettingsEditor" timestamp="1596598444994">
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596600523412" />
+    <state x="307" y="53" key="SettingsEditor" timestamp="1596605614600">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596598444994" />
-    <state x="574" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596598510746">
+    <state x="307" y="53" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596605614600" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1596598585668">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1596598510746" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596598585668" />
+    <state x="574" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596599384398">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1596599384398" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1596598493309">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

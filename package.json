@@ -8,13 +8,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "commonjs": "0.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MelancholyAstronaut/ES6_Course.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MelancholyAstronaut/ES6_Course/issues"
   },
   "homepage": "https://github.com/MelancholyAstronaut/ES6_Course#readme",
   "description": ""

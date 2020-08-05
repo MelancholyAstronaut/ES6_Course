@@ -1,9 +1,9 @@
 function sum(nums) {
     var res = 0;
-    for (let c of nums){
-        res+=c;
+    for (let c of nums) {
+        res += c;
     }
     return res;
 }
 
-module.exports.sum = sum
+module.exports.sum=sum
