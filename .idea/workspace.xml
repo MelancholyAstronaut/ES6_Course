@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b61db81f-4122-4c8b-8afc-2e8b7aef0c3c" name="Default Changelist" comment="测试信息">
-      <change afterPath="$PROJECT_DIR$/ES6/demo06/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ES6/demo06/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ES6/demo06/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ES6/demo06/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ES6/demo06/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/node_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/node_course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ES6/demo03/ArraysUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES6/demo03/ArraysUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ES6/demo05/class.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES6/demo05/class.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="b61db81f-4122-4c8b-8afc-2e8b7aef0c3c" name="Default Changelist" comment="测试信息" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,6 +94,7 @@
       <updated>1596517469839</updated>
       <workItem from="1596517470897" duration="7288000" />
       <workItem from="1596605549645" duration="139000" />
+      <workItem from="1596696725653" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="测试信息">
       <created>1596598580032</created>
